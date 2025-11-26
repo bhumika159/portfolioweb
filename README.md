@@ -1,2 +1,2 @@
 # portfolioweb
-A responsive portfolio that highlights my project experience, work style, and contact details. Created with a focus on clarity, usability, and professional presentation.
+A fully responsive personal portfolio website featuring my projects, technical skills, and professional background. This site is designed for clarity, performance, and a smooth user experience on all screen sizes.
